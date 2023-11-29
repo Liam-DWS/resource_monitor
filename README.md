@@ -13,7 +13,7 @@ I was experimenting with local LLMs and needed to monitor real-time resource usa
 The program is a Python script. To set it up:
 
 - Ensure you have Python installed on your system.
-- Download the `resource_monitor/` file.
+- Download the `resource_usage/` file.
 - Give it execute permissions: `chmod +x main.py`.
 
 ## Usage
