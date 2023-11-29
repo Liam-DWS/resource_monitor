@@ -13,12 +13,12 @@ I was experimenting with local LLMs and needed to monitor real-time resource usa
 The program is a Python script. To set it up:
 
 - Ensure you have Python installed on your system.
-- Download the `resource_monitor.py` file.
-- Give it execute permissions: `chmod +x resource_monitor.py`.
+- Download the `resource_monitor/` file.
+- Give it execute permissions: `chmod +x main.py`.
 
 ## Usage
 
-No witchcraft! Simply execute the script in your terminal, and it will start monitoring the specified process group.
+No witchcraft! Simply execute the `main.py` script in your terminal, and it will start monitoring the specified process group.
 
 ## Features
 
